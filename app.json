@@ -56,7 +56,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "YukkiSpamBot",
+      "value": "XD_SPAM",
       "required": false
     },
     "TZ": {
@@ -66,7 +66,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "Yukki",
+      "value": "XD_SPAM",
       "required": false
     }
   },
